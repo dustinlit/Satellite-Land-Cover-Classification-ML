@@ -1,5 +1,8 @@
 # Land Cover Classification Using CNN, Random Forest, and Ensemble Methods
 
+Author: Dustin Littlefield\
+[Github Repository](https://github.com/dustinlit/Satellite-Land-Cover-Classification-ML)
+
 This python project uses satellite imagery from the SAT-4 dataset to classify land cover into four categories, **barren**, **trees**, **grassland**, and **other**, using machine learning. It combines a **Convolutional Neural Network (CNN)** for spatial feature extraction with a **Random Forest** classifier to enhance performance. NDVI is also calculated and used as an additional feature channel to improve vegetation differentiation.
 
 ---
