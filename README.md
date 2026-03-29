@@ -2,12 +2,13 @@
 
 ![Status: Completed](https://img.shields.io/badge/Status-Completed-success)
 [![View Report](https://img.shields.io/badge/View-Full%20Report-blue?style=for-the-badge&logo=github)](https://dustinlit.github.io/Satellite-Land-Cover-Classification-ML/)
+[![Repository](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/dustinlit/Satellite-Land-Cover-Classification-ML)
 
-**Author:** Dustin Littlefield
-
-**Project Type:** Machine Learning Classification
-
-**Tags:** `Machine Learning` `Remote Sensing` `ArcGIS Pro` `Neural Networks` `Land Cover` `Python`
+**Author:** Dustin Littlefield  
+**Portfolio:** https://github.com/dustinlit  
+**Project Type:** `Machine Learning` `Remote Sensing` `Land Cover Classification`  
+**Technologies:** `Python` `ArcGIS Pro` `Neural Networks` `Raster Processing`  
+**Last Updated:** March 2026
 
 ## Overview
 
